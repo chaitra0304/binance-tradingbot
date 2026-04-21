@@ -1,0 +1,18 @@
+2026-04-21 21:13:19,307 - INFO - Placing order: BTCUSDT, BUY, MARKET, 0.01, None
+2026-04-21 21:13:21,554 - ERROR - Error placing order: APIError(code=-2014): API-key format invalid.
+2026-04-21 21:16:39,387 - INFO - Placing order: BTCUSDT, BUY, MARKET, 0.01, None
+2026-04-21 21:16:41,476 - ERROR - Error placing order: APIError(code=-2014): API-key format invalid.
+2026-04-21 21:44:38,379 - INFO - Placing order: BTCUSDT, BUY, MARKET, 0.01, None
+2026-04-21 21:44:40,107 - ERROR - Error placing order: APIError(code=-1022): Signature for this request is not valid.
+2026-04-21 21:46:19,851 - INFO - Placing order: BTCUSDT, BUY, MARKET, 0.01, None
+2026-04-21 21:46:21,485 - ERROR - Error placing order: APIError(code=-1022): Signature for this request is not valid.
+2026-04-21 21:48:55,215 - INFO - Placing order: BTCUSDT, BUY, MARKET, 0.001, None
+2026-04-21 21:48:57,545 - ERROR - Error placing order: APIError(code=-1022): Signature for this request is not valid.
+2026-04-21 21:51:44,969 - INFO - Placing order: BTCUSDT, BUY, MARKET, 0.001, None
+2026-04-21 21:51:46,716 - ERROR - Error placing order: APIError(code=-1022): Signature for this request is not valid.
+2026-04-21 21:55:04,859 - INFO - Placing order: BTCUSDT, BUY, MARKET, 0.001, None
+2026-04-21 21:55:06,795 - ERROR - Error placing order: APIError(code=-2019): Margin is insufficient.
+2026-04-21 21:59:28,341 - INFO - Placing order: BTCUSDT, BUY, MARKET, 0.001, None
+2026-04-21 21:59:30,293 - INFO - Order response: {'orderId': 13058269760, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJbf0ca9a3443fc0e755f918', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776788970096}
+2026-04-21 22:01:13,100 - INFO - Placing order: BTCUSDT, BUY, LIMIT, 0.001, 60000.0
+2026-04-21 22:01:15,174 - INFO - Order response: {'orderId': 13058274461, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ2b308e88b5c6af79c0db', 'price': '60000.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776789075061}
